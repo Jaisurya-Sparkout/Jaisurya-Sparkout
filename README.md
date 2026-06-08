@@ -65,16 +65,10 @@ Right now, I am focused on improving my skills in:
 - Writing clearer documentation
 - Building confidence with GitHub and real-world QA practices
 
-## GitHub Stats
-
-![Jaisurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/jaisuryar
+- Email: jaisurya@sparkouttech.com
 
 ---
 
