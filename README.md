@@ -48,11 +48,9 @@ I may not describe myself as a developer first. My main interest is understandin
 
 ## My Approach
 
-I like learning step by step.
+I believe learning does not need to be perfect from day one.
 
-For me, GitHub is not just a place to store code. It is a place to practice, understand, document, test, and improve.
-
-I enjoy asking questions, finding the reason behind issues, and slowly becoming more confident with technical workflows. I believe good testing is not only about finding bugs, but also about understanding the product, the user journey, and the small details that affect quality.
+I prefer to start simple, understand clearly, improve consistently, and keep moving forward. This GitHub profile is part of that journey.
 
 ## Current Focus
 
