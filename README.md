@@ -72,4 +72,3 @@ Right now, I am focused on improving my skills in:
 
 ---
 
-Thanks for visiting my profile.
