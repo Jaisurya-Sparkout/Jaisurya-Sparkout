@@ -18,7 +18,6 @@ I may not describe myself as a developer first. My main interest is understandin
 - Unit and component testing with Vitest
 - Smoke and performance-style checks with k6
 - GitHub, version control, and project organization
-- Real user journeys like screening, checkout, payment, tracking, and form flows
 
 ## Tools and Technologies
 
